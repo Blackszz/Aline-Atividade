@@ -1,34 +1,74 @@
-Guilherme Santos
-Guilherme Fonseca 
+
+Guilherme Santos.
+
+Guilherme Fonseca.
 
 
-## Explicação 1
+## Repositório 
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Primeiramente se inicia com a criação do repositório no Git Hub.
 
-## Explicação 2
+![img1](https://github.com/guifons/Aline-Atividade/assets/163131651/29aa7083-d6e1-4800-a9fa-02066277150c)
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+![img2](https://github.com/guifons/Aline-Atividade/assets/163131651/83e03e50-03b0-46f3-bc31-b8de8bd3ae15)
 
-## Explicação 3
+![img3](https://github.com/guifons/Aline-Atividade/assets/163131651/2baf0e84-0134-4c19-9fec-743fc22b27d9)
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## Colaborador 
 
-## Explicação 4
+Agora você adiciona o seu respectivo parceiro como colaborador do projeto.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+![img4](https://github.com/guifons/Aline-Atividade/assets/163131651/11d5b600-efd4-4d07-9287-557fe4149d80)
 
-## Explicação 5
+![img5](https://github.com/guifons/Aline-Atividade/assets/163131651/01048257-0b91-43ec-8aca-3e7f1cad5cd6)
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+![img6](https://github.com/guifons/Aline-Atividade/assets/163131651/0b838622-0565-4d04-b8db-4238b8195c05)
 
-## Explicação 6
+![img7](https://github.com/guifons/Aline-Atividade/assets/163131651/aaae6594-3e07-4e1c-a4b3-2c27642df909)
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## Git Bash
 
-## Explicação 7
+Logo após, inicie o seu arquivo usando o Git Bash.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+![img9](https://github.com/guifons/Aline-Atividade/assets/163131651/53545c58-0eae-4010-be98-50a31b0b187a)
+
+## Login e inicialização 
+
+Com o Git Bash aberto você ira fazer login com o seu mesmo nome e email usado no Git Hub, e dps digitar o comando "Git init" para inicializar o repositório do Git Hub.
+
+![img10](https://github.com/guifons/Aline-Atividade/assets/163131651/f126424d-b3c4-4e1d-b466-78d839639908)
+
+![img11](https://github.com/guifons/Aline-Atividade/assets/163131651/f9aa44db-570d-4e81-b688-f55c96258381)
+
+![img12](https://github.com/guifons/Aline-Atividade/assets/163131651/08a222c9-1286-4f29-a446-91358febea88)
+
+## Link
+
+Volte para página do Git Hub e copie o link do seu repositório, do mesmo modo mostrado nas imagens abaixo.
+
+![img13](https://github.com/guifons/Aline-Atividade/assets/163131651/c2224a95-0358-4422-adcc-11b30c473a48)
+
+![img14](https://github.com/guifons/Aline-Atividade/assets/163131651/f9eeba5f-8ebd-4556-89ed-3d65824bacd0)
+
+## Add
+
+Novamente no Git Bash, você irá digitar o comando "Git remote add origin main", o main é a branch que está sendo usada no repositório do Git Hub, e será nela que o seu arquivo irá ficar. Agora digite o comando "Git add ." que irá adicionar TODOS os seu arquivos da pasta para o Git Hub, mas se você não quiser enviar todos, poderá usar o "Git add --am (nome do arquivo)".
+
+![img15](https://github.com/guifons/Aline-Atividade/assets/163131651/dfc149c3-2784-4103-9756-cf9f3a60f396)
+
+![img16](https://github.com/guifons/Aline-Atividade/assets/163131651/95b07a37-875b-43ff-bd5a-048ff054ad60)
+
+![img17](https://github.com/guifons/Aline-Atividade/assets/163131651/4fa5cd5e-e764-4e70-bf18-29e3cb9ec65a)
+
+## Commit
+
+Se tudo até agora tiver dado certo, você irá usar o comando "Git commit" que serve para "avisar" que você irá enviar o seu arquivo para servidor do Git Hub, mas fiquem espertos, juntamente do comando do commit, tem que usar juntamente o '-am "sua mensagem"' para deixar uma descrição sobre o arquivo, se não fizer isso irá aparecer outra tela pedindo para digitar a mensagem, e pra sair dela você terá que clicar na tecla esc e digitar "wq!".
+
+![img18](https://github.com/guifons/Aline-Atividade/assets/163131651/d5d77043-2aba-446d-9c76-dd151166b0e2)
+
+Outra tela (imagem ilustrativa).
+
+![IMG-20240324-WA0136](https://github.com/guifons/Aline-Atividade/assets/163131651/e8890806-5e0e-43a3-be55-07e2dbedfef0)
 
 ## Explicação 8
 
