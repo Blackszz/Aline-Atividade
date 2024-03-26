@@ -52,7 +52,7 @@ Volte para página do Git Hub e copie o link do seu repositório, do mesmo modo 
 
 ## Add
 
-Novamente no Git Bash, você irá digitar o comando "git remote add origin main", o main é a branch que está sendo usada no repositório do Git Hub, e será nela que o seu arquivo irá ficar. Agora digite o comando "git add ." que irá adicionar TODOS os seu arquivos da pasta para o Git Hub, mas se você não quiser enviar todos, poderá usar o "git add --am (nome do arquivo)".
+Novamente no Git Bash, você irá digitar o comando "git remote add origin main", o main é a branch que está sendo usada no repositório do Git Hub, e será nela que o seu arquivo irá ficar. Agora digite o comando "git add ." que irá adicionar TODOS os seu arquivos da pasta para o Git Hub, mas se você não quiser enviar todos, poderá usar o "git add (nome do arquivo)".
 
 ![img15](https://github.com/guifons/Aline-Atividade/assets/163131651/dfc149c3-2784-4103-9756-cf9f3a60f396)
 
@@ -95,4 +95,22 @@ Para finalizar é só você ir no Git Hub e ver se deu certo o envio :sunglasses
 ![img23](https://github.com/guifons/Aline-Atividade/assets/163131651/35e795a7-0c35-4e3e-be84-b0acf75bd5c1)
 
 
+# Alterações
 
+## Pull
+
+Depois que você fez as alterações no seu arquivo você precisa reenvialo para o Git Hub. Primeiramente você ira repetir o processo até a parte do "git init", logo após isso você irá usar o "git pull" para pegar o arquivo antigo do Git Hub e dar merge com o novo.
+
+![IMG-20240325-WA0033](https://github.com/guifons/Aline-Atividade/assets/163131651/d0bcd2d5-4f19-4011-aaf6-12060475f303)
+
+## Add e Commit
+
+Agora você vai usar o add para adicionar o arquivo novo e fazer o commit do arquivo.
+
+![IMG-20240325-WA0032](https://github.com/guifons/Aline-Atividade/assets/163131651/551c8140-684f-4656-bf3f-8de197285f04)
+
+## Push
+
+E para finalizar você irá usar o push para enviar a alteração pro servidor do Git Hub
+
+![IMG-20240325-WA0031](https://github.com/guifons/Aline-Atividade/assets/163131651/cdb17a25-69ab-445d-8cf9-61609e5c6e62)
